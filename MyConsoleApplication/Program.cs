@@ -6,6 +6,7 @@
         {
             // write to output "hello world"
             System.Console.WriteLine("Hello World!");
+            System.Console.ReadLine();
         }
     }
 }
